@@ -19,14 +19,12 @@ print(len(my_list))  # 获取列表的长度
 
 # ----------------- #
 
-
 # 4. 范围函数
 numbers = range(1, 5)
 for num in numbers:
     print(num)  # 生成范围内的整数序列
 
 # ----------------- #
-
 
 #    5. 类型函数
 x = 5

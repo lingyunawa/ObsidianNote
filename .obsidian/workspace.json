@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "229098fd25331ab1",
+        "id": "d84fcad4e8083b8f",
         "type": "tabs",
         "children": [
           {
-            "id": "d13ea18ff78eab5e",
+            "id": "6c770e24d8772eea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python Start/A前序/2. Python 开发工具.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0764bcb2abba9103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python Start/B主线/1.1 基本语法：基础函数.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cc2cb686fdd42dce",
@@ -98,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Start/A前序/2. Python 开发工具.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Start/A前序/2. Python 开发工具.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +121,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Start/A前序/2. Python 开发工具.md"
+                "file": "README.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,25 +142,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d13ea18ff78eab5e",
+  "active": "74eb57cf279d87cb",
   "lastOpenFiles": [
+    "Python",
+    "新建文件夹",
+    "Python Start/B主线/1.3 基本语法：运算.md",
+    "Python Start/B主线/1.4 基本语法：导入库.md",
+    "README.md",
+    "Python Code/1-入门语法/basicSynatx-3_2.py",
+    "Python Code/1-入门语法/basicSynatx-3_1 copy.py",
+    "Python Code/1-入门语法/basicSynatx-3_1.py",
+    "Python Code/1-入门语法/basicSynatx-3-1.py",
     "Python Start/A前序/1. Python 简介与安装.md",
     "Python Start/A前序/2. Python 开发工具.md",
-    "Python Start/B主线/1.3 基本语法：运算.md",
+    "Python Code/1-入门语法/basicSynatx-3.py.md",
+    "Python Code/1-入门语法/basicSynatx-3.py",
     "Python Start/B主线/1.1 基本语法：基础函数.md",
     "Python Start/B主线/1.2 基本语法：循环.md",
     "Python Start/B主线/1.3 基本语法：运算",
     "Python Start/B主线/1.3 基本语法：",
-    "Python Start/B主线/1.4 基本语法：导入库.md",
     "Python Code/1-入门语法/1.py",
     "Python Code/1-入门语法/basicSynatx-2.py",
-    "Python Code/1-入门语法/basicSynatx-1 copy.py",
     "Python Start/B主线/1.2 基本语法：基础函数.md",
-    "Python Code/1-入门语法/basicSynatx-1.py",
-    "Python Code/1-入门语法/basicSynatx-4.py",
-    "Python Code/1-入门语法/basicSynatx-24.py",
-    "Python Code/1-入门语法/basicSynatx4/test.py",
-    "Python Code/1-入门语法/basicSynatx4",
     "Python Start/B主线/1.1 基本语法：导入库.md",
     "Python Code/1-入门语法/未命名.canvas",
     "Python Start/前序/2. Python 开发工具.md",
@@ -191,7 +177,6 @@
     "Python Start/1. Python 简介与安装.md",
     "Python Start/2.1 pip 常用指令表.md",
     "Python Start/2.1 pip 指令表.md",
-    "README.md",
     "^61f11e.md",
     "^1.md",
     "2024-03-28.md"
