@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ce422f51748525aa",
+        "id": "4087f874e2436e69",
         "type": "tabs",
         "children": [
           {
-            "id": "4423881b1968e83e",
+            "id": "c938e860a2f71056",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cc2cb686fdd42dce",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +98,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -124,12 +119,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,17 +140,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "74eb57cf279d87cb",
+  "active": "c938e860a2f71056",
   "lastOpenFiles": [
-    "l",
-    "Python Start/1. Python 简介与安装.md",
-    "README.md",
+    "Python Start/B主线",
+    "Python Start/A前序/1. Python 简介与安装.md",
+    "Python Start/A前序/2. Python 开发工具.md",
+    "Python Start/A前序",
+    "Python Start/主线",
+    "Python Start/主线开发",
+    "Python Start/前序/2. Python 开发工具.md",
+    "Python Start/前序/1. Python 简介与安装.md",
+    "Python Start/前序",
+    "Python Start/前言/2. Python 开发工具.md",
+    "Python Start/前言/1. Python 简介与安装.md",
+    "Python Start/前言",
     "Python Start/2. Python 开发工具.md",
-    "Python Start/1. Python 简介与安装.pdf",
-    "Python Start/1. Python 简介与安装.html",
+    "Python Code/1-入门语法/basicSynatx.py",
+    "Python Start/2.1 Venv 文件夹树.md",
+    "Python Start/2.1 Venv 文件夹树.txt",
+    "Python Start/2-1 Venv 文件夹树.md",
+    "Python Start/2-1 Venv 文件夹树 .md",
+    "Python Start/1. Python 简介与安装.md",
+    "Python Start/tree.txt",
+    "Python Code/1-入门语法/tree.txt",
+    "Python Code/2-运算语法",
+    "Python Start/2.1 pip 常用指令表.md",
+    "Python Start/2.1 pip 指令表.md",
+    "README.md",
     "^61f11e.md",
     "^1.md",
-    "2024-03-28.md",
-    "Python Start"
+    "2024-03-28.md"
   ]
 }
